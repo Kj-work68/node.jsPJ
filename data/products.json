@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "producttitle": "Fan",
+        "brand": "hatari",
+        "price": "450"
+    },
+    {
+        "id": 1,
+        "producttitle": "Fan",
+        "brand": "shap",
+        "price": "450"
+    },
+    {
+        "id": 2,
+        "producttitle": "Fan",
+        "brand": "panasonic",
+        "price": "450"
+    },
+    {
+        "id": 3,
+        "producttitle": "Fan",
+        "brand": "hitashi",
+        "price": "450"
+    }
+]
